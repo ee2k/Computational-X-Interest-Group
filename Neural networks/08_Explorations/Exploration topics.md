@@ -27,3 +27,7 @@
 
 ### Advanced Computing Concepts
 - [OPTICAL COMPUTING with PLASMA: Stanford PhD Defense](https://www.youtube.com/watch?v=Mdh2pLwsK8Y)
+
+
+
+- [A Fruitful Reciprocity: The Neuroscience-AI Connection from Stanford Neuro AI Lab](https://www.youtube.com/watch?v=6NOFtwKU3sA)

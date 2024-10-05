@@ -5,7 +5,7 @@
 - [Transformers for beginners | What are they and how do they work](https://www.youtube.com/watch?v=_UVfwBqcnbM)
 - [What are Transformer Neural Networks?](https://www.youtube.com/watch?v=XSSTuhyAmnI)
 - [Transformers explained | The architecture behind LLMs](https://www.youtube.com/watch?v=ec9IQMiJBhs)
-- [But what is a GPT? Visual intro to transformers | Chapter 5, Deep Learning](https://www.youtube.com/watch?v=wjZofJX0v4M)
+- [But what is a GPT? Visual intro to transformers by 3Blue1Brown](https://www.youtube.com/watch?v=wjZofJX0v4M)
 - [Illustrated Guide to Transformers Neural Network: A step by step explanation](https://www.youtube.com/watch?v=4Bdc55j80l8)
 - [Transformer Neural Networks - EXPLAINED! (Attention is all you need)](https://www.youtube.com/watch?v=TQQlZhbC5ps)
 - [How large language models work, a visual intro to transformers | Chapter 5, Deep Learning](https://www.youtube.com/watch?v=wjZofJX0v4M)

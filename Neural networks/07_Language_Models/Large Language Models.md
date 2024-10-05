@@ -9,16 +9,21 @@
 6. [Chinese Language Resources](#chinese-language-resources)
 
 ## Introduction to LLMs
+
+- [`[1hr Talk] Intro to Large Language Models`](https://www.youtube.com/watch?v=zjkBMFhNj_g)
 - [How ChatGPT Works Technically | ChatGPT Architecture](https://www.youtube.com/watch?v=bSvTVREwSNw)
 - [Machine Learning From Zero to GPT in 40 Minutes](https://www.youtube.com/watch?v=l-CjXFmcVzY)
 - [Large Language Models (in 2023)](https://www.youtube.com/watch?v=dbo3kNKPaUA)
 - [A Hackers' Guide to Language Models](https://www.youtube.com/watch?v=jkrNMKz9pWU)
 
 ## Technical Deep Dives
-- [Let's build GPT: from scratch, in code, spelled out.](https://www.youtube.com/watch?v=kCc8FmEb1nY)
+- [Let's build GPT: from scratch, in code, spelled out. by Andrej Karpathy](https://www.youtube.com/watch?v=kCc8FmEb1nY)
 - [Create a Large Language Model from Scratch with Python – Tutorial](https://www.youtube.com/watch?v=UU1WVnMk4E8)
 - [Large Language Models from scratch](https://www.youtube.com/watch?v=lnA9DMvHtfI)
+
+## Architecture and Core Concepts
 - [ChatGPT - Semantics: Transformers & NLP 2](https://www.youtube.com/watch?v=6XLJ7TZXSPg)
+- [The Attention Mechanism in Large Language Models](https://www.youtube.com/watch?v=OxCpWwDCDFQ)
 
 ## Advanced Topics and Research
 - [Efficient Streaming Language Models with Attention Sinks (Paper Explained)](https://www.youtube.com/watch?v=409tNlaByds)
@@ -28,9 +33,6 @@
 
 ## LLM Applications and Tools
 - [LangChain Explained in 13 Minutes | QuickStart Tutorial for Beginners](https://www.youtube.com/watch?v=aywZrzNaKjs)
-
-## Visual Explanations
-- [How large language models work, a visual intro to transformers | Chapter 5, Deep Learning](https://www.youtube.com/watch?v=wjZofJX0v4M)
 
 ## Chinese Language Resources
 - [大语言模型并不神秘！常见套路详解！miniGPT4讲了什么？](https://www.youtube.com/watch?v=VFX8RVHmDhU)

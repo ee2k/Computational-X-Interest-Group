@@ -2,13 +2,9 @@
 
 ## Recommended Books
 
-1. [Neural Networks from Scratch in Python](https://nnfs.io)
+- [Neural Networks from Scratch in Python](https://nnfs.io)
    - Authors: Harrison Kinsley and Daniel Kukieła
    - Description: A hands-on approach to understanding neural networks by implementing them from scratch.
-
-2. [Grokking Deep Learning](https://www.manning.com/books/grokking-deep-learning)
-   - Author: Andrew Trask
-   - Description: An intuitive approach to understanding deep learning concepts.
 
 ## Essential Mathematical Concepts
 
@@ -36,3 +32,6 @@
 # to be sorted
 
 - [Deep Learning Bootcamp: Phillip Isola](https://www.youtube.com/watch?v=UEJqxSVtfY0)
+
+
+- [You Don't Understand AI Until You Watch THIS](https://www.youtube.com/watch?v=1aM1KYvl4Dw)
