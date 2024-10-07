@@ -1,11 +1,11 @@
-## Reading List by Ilya Sutskever
+## Reading List by Ilya Sutskever videos
 - [AI Reading List (by Ilya Sutskever) - Part 1](https://www.youtube.com/watch?v=GU2K0kiHE1Q)
 - [AI Reading List (by Ilya Sutskever) - Part 2](https://www.youtube.com/watch?v=GxjEjy5UYJU)
 - [AI Reading List (by Ilya Sutskever) - Part 3](https://www.youtube.com/watch?v=asfrjLAyd2g)
 - [AI Reading List (by Ilya Sutskever) - Part 4](https://www.youtube.com/watch?v=tGQYZ5-MoRY)
 - [AI Reading List (by Ilya Sutskever) - Part 5](https://www.youtube.com/watch?v=oF6vcYHs6rw)
 
-## Reading List Mentioned in the Videos
+## Reading List by Ilya Sutskever
 - The Annotated Transformer
 - The First Law of Complexodynamics
 - The Unreasonable Effectiveness of Recurrent Neural Networks

@@ -11,14 +11,14 @@ This repository contains resources and information on applying AI to various sci
 
 <div style="font-size: 1.2em; line-height: 2;">
 
-- <a href="Neural%20networks/overview.md" style="font-size: 1.2em;">Neural Networks</a>
+- <a href="Neural_networks/README.md" style="font-size: 1.2em;">Neural Networks</a>
 
-- <a href="Biology/overview.md" style="font-size: 1.2em;">Computational Biology</a>
+- <a href="Biology/README.md" style="font-size: 1.2em;">Computational Biology</a>
 
-- <a href="Chemistry/overview.md" style="font-size: 1.2em;">Computational Chemistry</a>
+- <a href="Chemistry/README.md" style="font-size: 1.2em;">Computational Chemistry</a>
 
-- <a href="Environmental/overview.md" style="font-size: 1.2em;">Computational Environmental Science</a>
+- <a href="Environmental/README.md" style="font-size: 1.2em;">Computational Environmental Science</a>
 
-- <a href="Materials/overview.md" style="font-size: 1.2em;">Computational Materials Science</a>
+- <a href="Materials/README.md" style="font-size: 1.2em;">Computational Materials Science</a>
 
 </div>
