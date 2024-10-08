@@ -7,6 +7,9 @@
 - [How convolutional neural networks work, in depth](https://www.youtube.com/watch?v=JB8T_zN7ZC0)
   An in-depth explanation of CNN architecture and functionality.
 
+- [CNN Explainer](https://poloclub.github.io/cnn-explainer/)
+  An interactive tool to understand CNNs.
+
 ## Comprehensive Courses
 - [CS231n: Convolutional Neural Networks for Visual Recognition (2017) from Stanford](https://www.youtube.com/playlist?list=PLzUTmXVwsnXod6WNdg57Yc3zFx_f-RYsq)
   A complete course on CNNs and their applications in computer vision.

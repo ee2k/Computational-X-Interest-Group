@@ -1,6 +1,44 @@
 # Neural Network Architectures Overview
 
-This folder contains information on various neural network architectures:
+## Brief Overview of Architectures
+
+## CNN (Convolutional Neural Network)
+
+## Attention Mechanism
+
+## RNN (Recurrent Neural Network)
+
+## Transformer
+
+## Vision Transformer
+
+## GAN (Generative Adversarial Network)
+
+## Autoencoder
+
+## VAE (Variational Autoencoder)
+
+## GNN (Graph Neural Network)
+
+## Capsule Network
+
+## Neuroevolution
+
+## Siamese Network
+
+## LSTM (Long Short-Term Memory Networks)
+
+## GRU (Gated Recurrent Units)
+
+## Graph Neural Networks (GNNs)
+
+## Spiking Neural Networks
+
+## Memory Networks
+
+## Neural Turing Machines
+
+
 
 1. Convolutional Neural Networks (CNNs)
 2. Recurrent Neural Networks (RNNs)

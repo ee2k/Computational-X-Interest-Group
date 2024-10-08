@@ -1,12 +1,14 @@
 # Neural Network Basics
 
-## Recommended Books
+## MLP (Multilayer Perceptron) 
+
+### Recommended Books
 
 - [Neural Networks from Scratch in Python](https://nnfs.io)
    - Authors: Harrison Kinsley and Daniel Kukieła
    - Description: A hands-on approach to understanding neural networks by implementing them from scratch.
 
-## Essential Mathematical Concepts
+## MLP related Mathematical Concepts
 
 ### Backpropagation and Related Math
 
