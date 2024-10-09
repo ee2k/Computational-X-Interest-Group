@@ -50,3 +50,6 @@
 ## Non-English Resources
 - [【数之道 08】走进"卷积神经网络"，了解图像识别背后的原理](https://www.youtube.com/watch?v=vi9eNd9CPnk)
   An introduction to CNNs and image recognition principles (in Chinese).
+
+### Paper: 
+- LeCun, Y., Bottou, L., Bengio, Y., & Haffner, P. (1998). Gradient-based learning applied to document recognition. Proceedings of the IEEE, 86(11), 2278-232423

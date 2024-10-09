@@ -12,5 +12,6 @@
 - [Building a GAN From Scratch With PyTorch | Theory + Implementation](https://www.youtube.com/watch?v=_pIMdDWK5sc)
   A comprehensive guide combining theoretical explanations with practical implementation using PyTorch.
 
-## Additional Resources
-(This section can be expanded with more advanced topics or specific applications of GANs as needed)
+
+### Paper: 
+- [Generative Adversarial Networks](https://arxiv.org/abs/1406.2661)

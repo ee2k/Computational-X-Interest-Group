@@ -70,3 +70,6 @@
 # to be sorted
 LSTM is dead. Long Live Transformers! from Seattle Applied Deep Learning
 (https://www.youtube.com/watch?v=S27pHKBEp30)
+
+### Paper: 
+- [Attention is all you need](https://arxiv.org/abs/1706.03762)

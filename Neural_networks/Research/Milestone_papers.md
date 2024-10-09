@@ -1,4 +1,4 @@
-# Research Papers
+# Milestone Papers
 
 1. [1980 Neocognitron: A self-organizing neural network model for a mechanism of pattern recognition unaffected by shift in position](https://link.springer.com/article/10.1007/BF00566608)
 

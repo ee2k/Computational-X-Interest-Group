@@ -8,9 +8,7 @@
    - Authors: Harrison Kinsley and Daniel Kukieła
    - Description: A hands-on approach to understanding neural networks by implementing them from scratch.
 
-## MLP related Mathematical Concepts
-
-### Backpropagation and Related Math
+### MLP related Mathematical Concepts
 
 1. [Proof of Quotient Rule](https://www.youtube.com/watch?v=jxxzbMxihjQ)
    - Topic: Calculus fundamentals for neural networks
@@ -34,6 +32,5 @@
 # to be sorted
 
 - [Deep Learning Bootcamp: Phillip Isola](https://www.youtube.com/watch?v=UEJqxSVtfY0)
-
 
 - [You Don't Understand AI Until You Watch THIS](https://www.youtube.com/watch?v=1aM1KYvl4Dw)

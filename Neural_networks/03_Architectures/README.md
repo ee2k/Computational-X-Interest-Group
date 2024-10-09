@@ -1,61 +1,54 @@
-# Neural Network Architectures Overview
+# Neural Network Architectures
 
-## Brief Overview of Architectures
+## [CNN (Convolutional Neural Network)](CNN.md)
 
-## CNN (Convolutional Neural Network)
+## [Attention Mechanism](Attention_Mechanism.md)
 
-## Attention Mechanism
+## [RNN (Recurrent Neural Network)](RNN.md)
 
-## RNN (Recurrent Neural Network)
+## [Transformer](Transformer.md)
 
-## Transformer
+## [Vision Transformer (ViT)](ViT.md)
 
-## Vision Transformer
+<details>
+<summary>More</summary>
 
-## GAN (Generative Adversarial Network)
+## [Hopfield Network](Hopfield_Network.md)
 
-## Autoencoder
+## [Autoencoder](Autoencoder.md)
 
-## VAE (Variational Autoencoder)
+## [LSTM (Long Short-Term Memory Networks)](LSTM.md)
 
-## GNN (Graph Neural Network)
+## [GRU (Gated Recurrent Units)](GRU.md)
 
-## Capsule Network
+## [Siamese Network](Siamese_Network.md)
 
-## Neuroevolution
+## [GAN (Generative Adversarial Network)](GAN.md)
 
-## Siamese Network
+## [ResNet](ResNet.md)
 
-## LSTM (Long Short-Term Memory Networks)
+## [VAE (Variational Autoencoder)](VAE.md)
 
-## GRU (Gated Recurrent Units)
+## [U-Net](U-Net.md)
 
-## Graph Neural Networks (GNNs)
+## [Neural Turing Machines](Neural_Turing_Machines.md)
 
-## Spiking Neural Networks
+## [Memory Networks](Memory_Networks.md)
 
-## Memory Networks
+## [Graph Neural Network (GNN)](GNN.md)
 
-## Neural Turing Machines
+## [Capsule Network](Capsule_Network.md)
 
+## [Differentiable Neural Computers](Differentiable_Neural_Computers.md)
 
+## [BERT (Bidirectional Encoder Representations from Transformers)](BERT.md)
 
-1. Convolutional Neural Networks (CNNs)
-2. Recurrent Neural Networks (RNNs)
-3. Long Short-Term Memory Networks (LSTMs)
-4. Gated Recurrent Units (GRUs)
-5. Transformer architectures
-6. Generative Adversarial Networks (GANs)
-7. Autoencoders
-8. Variational Autoencoders (VAEs)
-9. Graph Neural Networks (GNNs)
-10. Capsule Networks
-11. Attention Mechanisms
-12. Memory Networks
-13. Neural Turing Machines
-14. Differentiable Neural Computers
-15. Spiking Neural Networks
-16. Siamese Networks
-17. Neuroevolution architectures
+## [GPT (Generative Pre-trained Transformer)](GPT.md)
 
-Each architecture has its own dedicated file with detailed explanations, use cases, and examples.
+## [Spiking Neural Networks](Spiking_Neural_Networks.md)
+
+## [Neuroevolution architectures](Neuroevolution_Architectures.md)
+
+## [Diffusion Models](Diffusion_Models.md)
+
+</details>

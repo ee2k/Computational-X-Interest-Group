@@ -33,3 +33,4 @@
 
 8. [工程师程序员必会！循环神经网络RNN什么原理？为什么记性不好？](https://www.youtube.com/watch?v=CvopefUXRZo)
    - Explanation of RNN principles and memory limitations in Chinese
+
