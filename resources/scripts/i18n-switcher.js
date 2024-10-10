@@ -33,7 +33,7 @@
 
   function getTranslatedPath(currentPath, fromLang, toLang) {
     if (fromLang === toLang) return currentPath;
-    const basePath = currentPath.replace(/^\/docs\/\w+/, '');
+    const basfePath = currentPath.replace(/^\/docs\/\w+/, '');
     return `/docs/${toLang}${basePath}`;
   }
 
