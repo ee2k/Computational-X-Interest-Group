@@ -1,7 +1,5 @@
 # <img src="../../resources/static/logo.webp" alt="Project Logo" width="64" height="64" style="vertical-align: middle;"> <span style="display: inline-block; vertical-align: middle; padding-left: 15px;">Computational-X-Interest-Group</span>
 
-<script src="../../resources/scripts/i18n-switcher.js"></script>
-
 ## About This Project
 This project aims to build a community for people who are interested in AI and its applications in various scientific fields (e.g., Biology, Chemistry, Environmental Science, Materials Science, etc.). It is a place for sharing resources, fostering discussions, and encouraging collaboration. 
 
