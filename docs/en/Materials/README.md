@@ -4,7 +4,7 @@
     🚧 Under Construction 🚧
   </p>
   <p style="font-family: 'Georgia', serif; font-size: 16px; color: #888;">
-    We're working hard to bring you valuable content.<br>
-    Please check back soon or consider contributing!
+    I'm working hard to bring you valuable content.<br>
+    Please consider contributing or checking back later!
   </p>
 </div>

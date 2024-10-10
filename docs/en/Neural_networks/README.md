@@ -1,5 +1,9 @@
 # Neural Networks Overview
 
+By following the resources in this section, you'll learn how to build neural networks from scratch.
+
+Please contribute if you think you could make them better.
+
 ## [Introduction](01_Introduction/README.md)
 
 ## [Basics](02_Basics/README.md)
