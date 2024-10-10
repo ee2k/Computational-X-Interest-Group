@@ -10,7 +10,7 @@ Please choose your preferred language:
 
 ### [English](docs/en/README.md)
 ---
-### 中文(建设中)
+<!-- ### 中文(建设中)
 ---
 ### Français (en construction)
 ---
@@ -27,7 +27,7 @@ Please choose your preferred language:
 ### Italiano (in lavorazione)
 ---
 ### Português (em desenvolvimento)
----
+--- -->
 
 <br>
 

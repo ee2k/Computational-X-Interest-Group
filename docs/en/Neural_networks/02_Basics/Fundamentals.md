@@ -29,8 +29,12 @@
 2. [Training a Deep Neural Network in a Spreadsheet](https://www.youtube.com/watch?v=1zwnPt73pow)
    - Description: Advanced neural network training demonstrated in a spreadsheet
 
-# to be sorted
+## Supplementary Resources
 
 - [Deep Learning Bootcamp: Phillip Isola](https://www.youtube.com/watch?v=UEJqxSVtfY0)
+
+- [Deep Learning Bootcamp: Kaiming He](https://www.youtube.com/watch?v=D_jt-xO_RmI)
+
+# to be sorted
 
 - [You Don't Understand AI Until You Watch THIS](https://www.youtube.com/watch?v=1aM1KYvl4Dw)
