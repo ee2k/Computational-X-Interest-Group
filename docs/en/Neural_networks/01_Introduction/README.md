@@ -2,8 +2,8 @@
 
 ## What is a Neural Network?
 
-- [But what is a neural network? from 3Blue1Brown](https://www.youtube.com/watch?v=aircAruvnKk&pp=ygUYd2hhdCBpcyBhIG5ldXJhbCBuZXR3b3Jr)
+- <a href="https://www.youtube.com/watch?v=aircAruvnKk" target="_blank" rel="noopener noreferrer">But what is a neural network? from 3Blue1Brown</a>
 
-- [Neural Networks Explained in 5 minutes from IBM](https://www.youtube.com/watch?v=jmmW0F0biz0&pp=ygUYd2hhdCBpcyBhIG5ldXJhbCBuZXR3b3Jr)
+- <a href="https://www.youtube.com/watch?v=jmmW0F0biz0" target="_blank" rel="noopener noreferrer">Neural Networks Explained in 5 minutes from IBM</a>
 
 ## [Basic Math for Neural Networks](Basic_Math.md)
