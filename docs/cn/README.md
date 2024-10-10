@@ -1,4 +1,4 @@
-# <img src="../../Resources/static/logo.webp" alt="Project Logo" width="64" height="64" style="vertical-align: middle;"> <span style="display: inline-block; vertical-align: middle; padding-left: 15px;">计算X科学兴趣小组</span>
+# <img src="../../resources/static/logo.webp" alt="Project Logo" width="64" height="64" style="vertical-align: middle;"> <span style="display: inline-block; vertical-align: middle; padding-left: 15px;">计算X科学兴趣小组</span>
 
 ## 关于这个项目
 这个项目旨在为对AI及其在生物学、化学、环境科学、材料科学等科学领域的应用感兴趣的人们建立一个社区。这是一个分享资源、促进讨论和鼓励合作的平台。
