@@ -21,5 +21,5 @@
 ## Connect with members
 
 - [GitHub Discussions](https://github.com/ee2k/Computational-X-Interest-Group/discussions/)
-- Twitter Community (Under development)
-<!-- [Computational-X](https://x.com/i/communities/xxxx) -->
+<!-- - Twitter Community (Under development)
+[Computational-X](https://x.com/i/communities/xxxx) -->

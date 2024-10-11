@@ -36,4 +36,4 @@ Please choose your preferred language (Only English is available now):
 ### Connect with Group Members
 
 - [GitHub Discussions](https://github.com/ee2k/Computational-X-Interest-Group/discussions/)
-- Twitter Community (Under development)
+<!-- - Twitter Community (Under development) -->

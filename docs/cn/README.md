@@ -23,10 +23,10 @@
 
 </div>
 
-<br>
+<!-- <br>
 
 ## 联接小组成员
 
 - [GitHub Discussions](https://github.com/ee2k/Computational-X-Interest-Group/discussions/)
 - Twitter Community (Under development)
-<!-- [Computational-X](https://x.com/i/communities/xxxx) -->
+[Computational-X](https://x.com/i/communities/xxxx) -->
