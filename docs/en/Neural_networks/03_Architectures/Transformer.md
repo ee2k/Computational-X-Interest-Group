@@ -67,9 +67,13 @@
 - [程序员必会！世界上最重要的论文：Transformer，所有的AI应用都要靠他，简单讲解其原理](https://www.youtube.com/watch?v=smC_ybLGFkU)
 
 
-# to be sorted
-LSTM is dead. Long Live Transformers! from Seattle Applied Deep Learning
-(https://www.youtube.com/watch?v=S27pHKBEp30)
+## Additional Resources
 
-### Paper: 
-- [Attention is all you need](https://arxiv.org/abs/1706.03762)
+### Visual Explanations
+- [The Illustrated Transformer – Jay Alammar – Visualizing machine learning one concept at a time.](https://jalammar.github.io/illustrated-transformer/)
+
+### Comparisons with Other Architectures
+- [LSTM is dead. Long Live Transformers! from Seattle Applied Deep Learning](https://www.youtube.com/watch?v=S27pHKBEp30)
+
+### Original Paper
+- [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
