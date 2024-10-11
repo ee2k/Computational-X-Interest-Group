@@ -1,4 +1,7 @@
 ## To be sorted
 
-- [【博士Vlog】如何快速入门深度学习](https://www.youtube.com/watch?v=uUqtCvqKGFs)
-  - Description: (Translation: PhD Vlog: How to quickly get started with deep learning)
+- [CS224N Natural Language Processing from Stanford](https://www.youtube.com/playlist?list=PLU40WL8Ol94IJzQtileLTqGZuXtGlLMP_)
+
+- [Machine Learning from Coursera](https://www.coursera.org/learn/machine-learning)
+
+- [Probabilistic Graphical Models Specialization from Coursera](https://www.coursera.org/specializations/probabilistic-graphical-models)
