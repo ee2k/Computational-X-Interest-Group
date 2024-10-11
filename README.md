@@ -8,7 +8,7 @@ I'm an indie maker and AI learner, and I'm quite interested in computational bio
 
 The journey could be tough, but very interesting and rewarding in the long run. I invite you to contribute your knowledge, engage with like-minded members and learn from each other, and participate in projects.
 
-Please choose your preferred language:
+Please choose your preferred language (Only English is available now):
 
 ### [English](docs/en/README.md)
 ---
