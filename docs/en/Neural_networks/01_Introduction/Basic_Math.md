@@ -18,3 +18,5 @@ If you haven't yet studied these topics in depth, don't worry! You can still pro
 
 # Probability and Statistics
 - [Probability and Statistics from Stanford](https://online.stanford.edu/courses/gse-yprobstat-probability-and-statistics)
+
+- [Probability Bootcamp by Steve Brunton](https://www.youtube.com/playlist?list=PLMrJAkhIeNNR3sNYvfgiKgcStwuPSts9V)
