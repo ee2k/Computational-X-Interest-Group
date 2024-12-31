@@ -1,0 +1,1 @@
+- [How do Transformer Models keep track of the order of words? Positional Encoding](https://www.youtube.com/watch?v=IHu3QehUmrQ)

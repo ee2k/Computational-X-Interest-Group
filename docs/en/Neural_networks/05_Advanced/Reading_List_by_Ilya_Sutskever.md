@@ -1,0 +1,35 @@
+## Reading List by Ilya Sutskever videos
+- [AI Reading List (by Ilya Sutskever) - Part 1](https://www.youtube.com/watch?v=GU2K0kiHE1Q)
+- [AI Reading List (by Ilya Sutskever) - Part 2](https://www.youtube.com/watch?v=GxjEjy5UYJU)
+- [AI Reading List (by Ilya Sutskever) - Part 3](https://www.youtube.com/watch?v=asfrjLAyd2g)
+- [AI Reading List (by Ilya Sutskever) - Part 4](https://www.youtube.com/watch?v=tGQYZ5-MoRY)
+- [AI Reading List (by Ilya Sutskever) - Part 5](https://www.youtube.com/watch?v=oF6vcYHs6rw)
+
+## Reading List by Ilya Sutskever
+- The Annotated Transformer
+- The First Law of Complexodynamics
+- The Unreasonable Effectiveness of Recurrent Neural Networks
+- Understanding LSTM Networks
+- Recurrent Neural Networks Regularization
+- Keeping the Neural Networks Simple by Minimizing number of Weights
+- Pointer Networks
+- ImageNet Classification with Deep Convolutional Networks
+- Order Matters: Sequence to Sequence For Sets
+- GPipe: Easy Scaling with Micro-Batch Pipeline Parallelism
+- Deep Residual learning for Image Recognition
+- Multi-Scale Context Aggregation by Dilated Convolutions
+- Neural Quantum Chemistry
+- Attention Is All You Need
+- Neural Machine Translation by Jointly Learning to Align and Translate
+- Identity Mapping in Deep Residual Networks
+- A Simple Neural network Module for Relational Reasoning
+- Variational Lossy Autoencoder
+- Relational RNNs
+- Quantifying the Rise and Fall of Complexity in Closed Systems: The Coffee Automaton
+- Neural Turing Machines
+- Deep Speech 2: End-to-End Speech Recognition in English and Mandarin
+- Scaling Laws for Neural LMs
+- A Tutorial Introduction to the Minimum Description Length Principle
+- Machine Super Intelligence
+- Kolmogorov Complexity and Algorithmic Randomness
+- CS231n Convolutional Neural Networks for Visual Recognition
